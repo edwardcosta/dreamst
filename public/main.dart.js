@@ -16001,7 +16001,7 @@ return s==null?null:s.content},
 u7(a){var s
 if(A.a_F(a).gAf())return A.F8(B.e6,a,B.E,!1)
 s=this.gFF()
-return A.F8(B.e6,(s==null?"":s)+"assets/assets/"+a,B.E,!1)},
+return A.F8(B.e6,(s==null?"":s)+"assets/"+a,B.E,!1)},
 cK(a,b){return this.Pt(0,b)},
 Pt(a,b){var s=0,r=A.a5(t.yp),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$cK=A.a6(function(a0,a1){if(a0===1){o=a1
@@ -29536,14 +29536,14 @@ az(){return new A.Cj(B.m)}}
 A.Cj.prototype={
 S(a){var s=t.w,r=a.a4(s).f
 s=a.a4(s).f
-return A.u5(A.yL(A.HG(A.b([A.a1K("images/whale.png",3),B.A4,B.A3],t.D),B.aW,B.zg),s.a.b*0.9,r.a.a*0.9),null,null)}}
+return A.u5(A.yL(A.HG(A.b([A.a1K("assets/images/whale.png",3),B.A4,B.A3],t.D),B.aW,B.zg),s.a.b*0.9,r.a.a*0.9),null,null)}}
 A.qo.prototype={
 az(){return new A.Fa(B.m)}}
 A.Fa.prototype={
 S(a){var s,r=null,q=t.w,p=a.a4(q).f
 q=a.a4(q).f
 s=t.D
-return A.u5(A.HN(A.a_o(A.b([A.a1w(A.HG(B.wi,B.aW,B.zf)),A.a1w(A.HG(A.b([A.a1K("images/whale.png",r)],s),B.aW,B.er))],s),B.aW,B.cJ),B.ts,r,q.a.b*0.9,r,r,p.a.a*0.9),r,r)}}
+return A.u5(A.HN(A.a_o(A.b([A.a1w(A.HG(B.wi,B.aW,B.zf)),A.a1w(A.HG(A.b([A.a1K("assets/images/whale.png",r)],s),B.aW,B.er))],s),B.aW,B.cJ),B.ts,r,q.a.b*0.9,r,r,p.a.a*0.9),r,r)}}
 A.yj.prototype={
 S(a){return new A.wp(new A.PB(this),null)}}
 A.PB.prototype={
