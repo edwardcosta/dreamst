@@ -16001,7 +16001,7 @@ return s==null?null:s.content},
 u7(a){var s
 if(A.a_F(a).gAf())return A.F8(B.e6,a,B.E,!1)
 s=this.gFF()
-return A.F8(B.e6,(s==null?"":s)+"assets/"+a,B.E,!1)},
+return A.F8(B.e6,(s==null?"":s)+"assets/assets/"+a,B.E,!1)},
 cK(a,b){return this.Pt(0,b)},
 Pt(a,b){var s=0,r=A.a5(t.yp),q,p=2,o,n=this,m,l,k,j,i,h,g,f,e,d,c
 var $async$cK=A.a6(function(a0,a1){if(a0===1){o=a1
