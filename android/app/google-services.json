@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "290300541087",
+    "project_id": "dreamst-84fca",
+    "storage_bucket": "dreamst-84fca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290300541087:android:e962dee64b305bad408aaa",
+        "android_client_info": {
+          "package_name": "br.com.dreamst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290300541087-rq5kafi9t4jcrbk5rvabm510ku2dpga1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpU06TsPTF8vsCDpo2wqbmvkUTAM-I_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290300541087-rq5kafi9t4jcrbk5rvabm510ku2dpga1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290300541087:android:55c7b05acc2d87ae408aaa",
+        "android_client_info": {
+          "package_name": "com.example.dreamst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290300541087-rq5kafi9t4jcrbk5rvabm510ku2dpga1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLpU06TsPTF8vsCDpo2wqbmvkUTAM-I_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290300541087-rq5kafi9t4jcrbk5rvabm510ku2dpga1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
